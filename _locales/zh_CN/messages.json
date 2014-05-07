@@ -1,0 +1,1306 @@
+{
+   "a_new_hope": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "about": {
+      "description": "",
+      "message": "\u5173\u4E8E"
+   },
+   "about_and_help": {
+      "description": "",
+      "message": "\u5173\u4E8E\u4E0E\u5E2E\u52A9"
+   },
+   "access_token_doesnt_exist": {
+      "description": "data/index.html",
+      "message": "\u545C\u545C\uFF0C\u8BBF\u95EE\u4EE4\u724C\u4E0D\u5B58\u5728"
+   },
+   "action": {
+      "description": "data/index.html",
+      "message": "\u52A8\u4F5C"
+   },
+   "add": {
+      "description": "data/index.html",
+      "message": "\u6DFB\u52A0"
+   },
+   "add_new_views": {
+      "description": "data/index.html",
+      "message": "\u6DFB\u52A0\u65B0\u89C6\u56FE"
+   },
+   "add_to_list": {
+      "description": "data/js/ui.template.js",
+      "message": "\u6DFB\u52A0\u5230\u5217\u8868"
+   },
+   "advanced": {
+      "description": "",
+      "message": "\u9AD8\u7EA7"
+   },
+   "animation": {
+      "description": "data/index.html",
+      "message": "\u52A8\u753B"
+   },
+   "api_base": {
+      "description": "",
+      "message": "API Base"
+   },
+   "api_setting": {
+      "description": "",
+      "message": "API \u8BBE\u7F6E"
+   },
+   "archive": {
+      "description": "data/index.html",
+      "message": "\u5F52\u6863"
+   },
+   "artwork_by": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "assassin_s_tango": {
+      "description": "data/index.html",
+      "message": "\u58F3\u9171\u7684\u8BE1\u8BA1"
+   },
+   "authentication_ok": {
+      "description": "data/js/ui.welcome.js",
+      "message": "\u9A8C\u8BC1\u901A\u8FC7\u55F7\uFF01"
+   },
+   "author": {
+      "description": "data/js/ui.exts_dlg.js",
+      "message": "\u4F5C\u8005"
+   },
+   "auto_longer_tweet": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "automatically_sign_in_after_opening": {
+      "description": "data/index.html",
+      "message": "\u6253\u5F00\u4EE5\u540E\u81EA\u52A8\u767B\u9646"
+   },
+   "behavior": {
+      "description": "",
+      "message": "\u884C\u4E3A"
+   },
+   "bio": {
+      "description": "",
+      "message": "\u81EA\u8FF0"
+   },
+   "block": {
+      "description": "data/js/ui.template.js",
+      "message": "\u5C4F\u853D"
+   },
+   "bloody_marguerite": {
+      "description": "data/index.html",
+      "message": "\u8840\u8165\u7684\u82CF\u9171"
+   },
+   "cancel": {
+      "description": "",
+      "message": "\u53D6\u6D88"
+   },
+   "cannot_authenticate_you_please_check_your_username_or_password_and_api_base": {
+      "description": "data/js/ui.welcome.js",
+      "message": "\u4E0D\u80FD\u9A8C\u8BC1\u6BBF\u4E0B\u7684\u8EAB\u4EFD\u5662\u3002\u8BF7\u68C0\u67E5\u60A8\u7684\u7528\u6237\u540D/\u5BC6\u7801\u548C API \u5730\u5740\u3002"
+   },
+   "cannot_authenticate_you_please_try_later": {
+      "description": "data/js/ui.welcome.js",
+      "message": ""
+   },
+   "cannot_get_token_from_server": {
+      "description": "data/js/ui.welcome.js",
+      "message": ""
+   },
+   "change_your_profile_picture_by_clicking_it": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "charactor_at_is_not_allow_in_profile_prefix": {
+      "description": "data/js/ui.welcome.js",
+      "message": "\u4E0D\u5141\u8BB8\u5728\u8D26\u6237\u524D\u7F00\u4E2D\u4F7F\u7528`@`\u5B57\u7B26\u54E6\u55B5"
+   },
+   "chrome_context_menu_integration": {
+      "description": "data/index.html",
+      "message": "\u96C6\u6210\u5230Chrome\u53F3\u952E\u83DC\u5355"
+   },
+   "classic": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "clear": {
+      "description": "",
+      "message": "\u6E05\u9664"
+   },
+   "clear_and_close": {
+      "description": "data/index.html",
+      "message": "\u6E05\u7A7A\u5E76\u4E14\u5173\u95ED"
+   },
+   "clear_token": {
+      "description": "data/index.html",
+      "message": "\u6E05\u7A7A\u4EE4\u724C"
+   },
+   "click_me_to_continue": {
+      "description": "",
+      "message": "\u70B9\u6211\u7EE7\u7EED\u5466"
+   },
+   "click_the_button_below": {
+      "description": "",
+      "message": "\u70B9\u51FB\u4E0B\u9762\u7684\u6309\u94AE\u5466"
+   },
+   "click_to_compose_message": {
+      "description": "data/index.html",
+      "message": "\u70B9\u51FB\u5207\u6362DM\u6A21\u5F0F"
+   },
+   "click_to_expand_menu": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "click_to_show": {
+      "description": "data/js/ui.template.js",
+      "message": "\u70B9\u51FB\u67E5\u770B"
+   },
+   "click_to_show_retweeters": {
+      "description": "data/js/ui.template.js",
+      "message": "\u70B9\u6211\u67E5\u770B\u8F6C\u53D1\u4EBA\u5466"
+   },
+   "client_name1_client_name2": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "close": {
+      "description": "",
+      "message": "\u5173\u95ED"
+   },
+   "close_current_column": {
+      "description": "data/index.html",
+      "message": "\u5173\u95ED\u5F53\u524D\u5217"
+   },
+   "compose": {
+      "description": "data/index.html",
+      "message": "\u53D1\u63A8"
+   },
+   "compress_tweet": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "copy_the_pin_code_and_paste_it_into_the_box_below": {
+      "description": "",
+      "message": "\u590D\u5236 PIN Code \u5E76\u4E14\u5C06\u5B83\u7C98\u8D34\u5230\u4E0B\u9762\u7684\u6587\u672C\u6846"
+   },
+   "copy_to_clipboard": {
+      "description": "date/index.html",
+      "message": "\u590D\u5236\u5230\u526A\u8D34\u677F"
+   },
+   "create_a_list": {
+      "description": "data/js/ui.template.js",
+      "message": "\u521B\u5EFA\u4E00\u4E2A\u65B0\u5217\u8868"
+   },
+   "create_a_new_profile": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "credits": {
+      "description": "",
+      "message": "\u81F4\u8C22"
+   },
+   "cuddly": {
+      "description": "data/index.html",
+      "message": "\u53EF\u4E50\u5C0FV"
+   },
+   "custom_font": {
+      "description": "data/index.html",
+      "message": "\u81EA\u5B9A\u4E49\u5B57\u4F53"
+   },
+   "default_picture_service": {
+      "description": "data/index.html",
+      "message": "\u9ED8\u8BA4\u8D34\u56FE\u670D\u52A1"
+   },
+   "delete": {
+      "description": "",
+      "message": "\u5220\u9664"
+   },
+   "delete_this_tweet": {
+      "description": "data/js/ui.template.js",
+      "message": "\u5220\u9664"
+   },
+   "destroy_successfully": {
+      "description": "data/js/ui.main.js",
+      "message": "\u5220\u9664\u6210\u529F\u5466\uFF01"
+   },
+   "donate": {
+      "description": "data/index.html",
+      "message": "\u6350\u8D60"
+   },
+   "donate_hint1": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "donate_hint2": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "dots": {
+      "description": "data/js/ui.main.js",
+      "message": "..."
+   },
+   "drafts": {
+      "description": "data/js/ui.status_box.js",
+      "message": "\u8349\u7A3F"
+   },
+   "drag_a_photo_here": {
+      "description": "data/index.html",
+      "message": "\u4E22\u4E00\u5F20\u76F8\u7247\u7ED9\u6211\uFF0C\u5C0F\u9C7C\u4E5F\u53EF\u4EE5\u55B5"
+   },
+   "drop": {
+      "description": "data/index.html",
+      "message": "\u4E22\u5F03"
+   },
+   "drop_tweets_contain_hash_tag_nowplaying": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "drop_tweets_contain_word_abc": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "drop_tweets_retweeted_by_abc": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "drop_tweets_sent_by_abc": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "drop_tweets_sent_from_foursquare": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "edit": {
+      "description": "data/js/ui.template.js",
+      "message": "\u7F16\u8F91"
+   },
+   "eg_alt_h": {
+      "description": "data/index.html",
+      "message": "\u4F8B\u5982\u003CAlt\u003EH"
+   },
+   "enable": {
+      "description": "data/js/ui.exts_dlg.js",
+      "message": "\u542F\u7528"
+   },
+   "enable_animation": {
+      "description": "data/index.html",
+      "message": "\u542F\u7528\u52A8\u753B"
+   },
+   "enable_gpu_acceleration": {
+      "description": "data/index.html",
+      "message": "\u542F\u7528GPU\u52A0\u901F"
+   },
+   "enable_verbose_mode": {
+      "description": "",
+      "message": "\u542F\u7528\u5570\u55E6\u6A21\u5F0F"
+   },
+   "errors": {
+      "description": "data/index.html",
+      "message": "\u9519\u8BEF"
+   },
+   "examples": {
+      "description": "data/index.html",
+      "message": "\u793A\u4F8B"
+   },
+   "exit_hotot_when_close_window": {
+      "description": "data/index.html",
+      "message": "\u5173\u95ED\u7A97\u53E3\u65F6\u9000\u51FA Hotot"
+   },
+   "extensions": {
+      "description": "",
+      "message": "\u6269\u5C55"
+   },
+   "fav_or_un_fav": {
+      "description": "data/index.html",
+      "message": "\u6536\u85CF/\u53D6\u6D88\u6536\u85CF"
+   },
+   "favorite_this_tweet_dots": {
+      "description": "data/js/ui.main.js",
+      "message": "\u57CB\u8D77\u6765\u7B49\u4E0B\u5403\u55B5..."
+   },
+   "favs": {
+      "description": "data/js/ui.template.js",
+      "message": "\u6536\u85CF"
+   },
+   "favs_view": {
+      "description": "data/index.html",
+      "message": "\u6211\u7684\u6536\u85CF"
+   },
+   "fellowship": {
+      "description": "data/js/ui.template.js",
+      "message": "\u5916\u4EA4"
+   },
+   "filter_nsfw_media": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "filter_tweets_like_it": {
+      "description": "data/index.html",
+      "message": "\u8FC7\u6EE4\u7C7B\u4F3C\u7684\u63A8"
+   },
+   "find": {
+      "description": "data/index.html",
+      "message": "\u67E5\u627E"
+   },
+   "fine": {
+      "description": "data/js/lib.twitterapi.js",
+      "message": "\u8FD8\u80FD hold \u4F4F\u54C8"
+   },
+   "first_time_to_sign_in_with_twitter": {
+      "description": "data/index.html",
+      "message": "\u9996\u6B21\u4F7F\u7528\uFF0C\u7528Twitter\u767B\u5F55"
+   },
+   "follow": {
+      "description": "data/js/ui.template.js",
+      "message": "\u5173\u6CE8"
+   },
+   "follow_at": {
+      "description": "data/js/ui.main.js",
+      "message": "\u5173\u6CE8@"
+   },
+   "follower_cnt": {
+      "description": "data/js/ui.template.js",
+      "message": "\u4EF0\u6155\u8005"
+   },
+   "followers": {
+      "description": "data/js/ui.template.js",
+      "message": "\u4EF0\u6155\u8005"
+   },
+   "font": {
+      "description": "",
+      "message": "\u5B57\u4F53"
+   },
+   "font_preview_hint": {
+      "description": "",
+      "message": "\u6211\u80FD\u541E\u4E0B\u73BB\u7483\u800C\u4E0D\u4F24\u8EAB\u4F53\u5662\u3002"
+   },
+   "font_size": {
+      "description": "",
+      "message": "\u5B57\u4F53\u5927\u5C0F"
+   },
+   "friend_cnt": {
+      "description": "data/js/ui.template.js",
+      "message": "\u57FA\u53CB"
+   },
+   "friends": {
+      "description": "data/js/ui.template.js",
+      "message": "\u57FA\u53CB"
+   },
+   "global": {
+      "description": "data/index.html",
+      "message": "\u5168\u5C40"
+   },
+   "globals_restart_hint": {
+      "description": "",
+      "message": "\u8BF7\u5728\u4FEE\u6539\u672C\u9875\u9009\u9879\u540E\u91CD\u542F\u50B2\u5154\u6765\u8BA9\u4FEE\u6539\u751F\u6548\u3002\u5BF9\u4E86\uFF0C\u672C\u9875\u9009\u9879\u4F1A\u5F71\u54CD\u6240\u6709\u8D26\u6237\u5662\u3002"
+   },
+   "greeting": {
+      "description": "",
+      "message": "\u6BBF\u4E0B\u4FAC\u597D\uFF01"
+   },
+   "help": {
+      "description": "",
+      "message": "\u5E2E\u52A9"
+   },
+   "hey": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "hey_it_is_you": {
+      "description": "data/js/ui.peopleview.js",
+      "message": "\u6BBF\u4E0B\u4FAC\u597D\uFF01\u6BBF\u4E0B\u518D\u5D34\uFF01"
+   },
+   "hidden_dark_minds": {
+      "description": "data/index.html",
+      "message": "\u8179\u9ED1\u7684\u8001K"
+   },
+   "home_timeline": {
+      "description": "data/js/ui.slider.js",
+      "message": "\u65F6\u95F4\u7EBF"
+   },
+   "home_view": {
+      "description": "data/index.html",
+      "message": "\u4E3B\u65F6\u95F4\u7EBF"
+   },
+   "host": {
+      "description": "data/index.html",
+      "message": "\u4E3B\u673A\u540D"
+   },
+   "hotot": {
+      "description": "",
+      "message": "\u50B2\u5154"
+   },
+   "hotot_description": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "image_uploader": {
+      "description": "data/index.html",
+      "message": "\u56FE\u7247\u4E0A\u4F20\u5668"
+   },
+   "info": {
+      "description": "data/js/ui.template.js",
+      "message": "\u4FE1\u606F"
+   },
+   "insert_smiley": {
+      "description": "data/index.html",
+      "message": "\u63D2\u5165\u989C\u6587\u5B57"
+   },
+   "intelligent_filter": {
+      "description": "data/index.html",
+      "message": "\u667A\u80FD\u8FC7\u6EE4\u5668"
+   },
+   "interface_language": {
+      "description": "data/index.html",
+      "message": "\u4ECB\u9762\u8BED\u8A00"
+   },
+   "join": {
+      "description": "data/js/ui.template.js",
+      "message": "\u52A0\u5165"
+   },
+   "just_cannot_stop_thinking_of_here": {
+      "description": "data/index.html",
+      "message": "\u543E\u53EA\u662F\u6709\u70B9\u6000\u5FF5\u8FD9\u513F"
+   },
+   "keyboard": {
+      "description": "",
+      "message": "\u952E\u76D8"
+   },
+   "keyboard_shortcuts": {
+      "description": "",
+      "message": "\u952E\u76D8\u5FEB\u6377\u952E"
+   },
+   "kismet_firewall": {
+      "description": "data/index.html",
+      "message": "Kismet \u9632\u706B\u5899"
+   },
+   "kismet_guide": {
+      "description": "data/index.html",
+      "message": "Kismet \u5411\u5BFC"
+   },
+   "kismet_mute_hint": {
+      "description": "data/index.html",
+      "message": "\u8B66\u544A\uFF1A\u51E1\u662F\u5177\u5907\u5982\u4E0B\u7279\u5F81\u7684\u63A8\u90FD\u5C06\u88AB\u629B\u5F03\uFF0C\u4E0D\u7ED9\u4F60\u5466\u3002"
+   },
+   "label_with_color": {
+      "description": "data/index.html",
+      "message": "\u67D3\u8272"
+   },
+   "language": {
+      "description": "data/index.html",
+      "message": "\u8BED\u8A00"
+   },
+   "let_hotot_collects_anonymous_statistic_information": {
+      "description": "data/index.html",
+      "message": "\u8BA9\u5154\u5154\u6536\u96C6\u533F\u540D\u7EDF\u8BA1\u4FE1\u606F"
+   },
+   "license": {
+      "description": "",
+      "message": "\u8BB8\u53EF"
+   },
+   "license_text1": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "license_text2": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "license_text3": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "line_height": {
+      "description": "data/index.html",
+      "message": "\u884C\u9AD8"
+   },
+   "list": {
+      "description": "data/index.html",
+      "message": "\u5217\u8868"
+   },
+   "listed_cnt": {
+      "description": "data/js/ui.template.js",
+      "message": "\u5217\u8868\u4E2D"
+   },
+   "lists": {
+      "description": "data/js/ui.template.js",
+      "message": "\u5217\u8868"
+   },
+   "lists_following_them": {
+      "description": "data/js/ui.template.js",
+      "message": "\u5305\u542B\u8BE5\u7528\u6237\u7684\u5217\u8868"
+   },
+   "lists_of_them": {
+      "description": "data/js/ui.template.js",
+      "message": "\u8BE5\u7528\u6237\u7684\u5217\u8868"
+   },
+   "loading_dots": {
+      "description": "data/js/ui.template.js",
+      "message": "\u52A0\u8F7D\u4E2D\u2026"
+   },
+   "loading_resources_hint": {
+      "description": "",
+      "message": "\u52A0\u8F7D\u8D44\u6E90\u4E2D..."
+   },
+   "location": {
+      "description": "",
+      "message": "\u4F4D\u7F6E"
+   },
+   "mark_deleted_tweets": {
+      "description": "data/index.html",
+      "message": "\u6807\u8BB0\u88AB\u5220\u9664\u7684\u63A8"
+   },
+   "mask": {
+      "description": "data/index.html",
+      "message": "\u5C4F\u853D"
+   },
+   "mask_tweets_contain_hash_tag_callmemaybe": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "mention_them": {
+      "description": "data/js/ui.template.js",
+      "message": "\u63D0\u53CA"
+   },
+   "mentions": {
+      "description": "data/js/ui.slider.js",
+      "message": "\u63D0\u5230\u4F60\u7684"
+   },
+   "mentions_view": {
+      "description": "data/index.html",
+      "message": "\u63D0\u5230\u6211\u7684"
+   },
+   "messages": {
+      "description": "data/js/ui.slider.js",
+      "message": "\u79C1\u4FE1"
+   },
+   "messages_view": {
+      "description": "data/index.html",
+      "message": "\u79C1\u4FE1"
+   },
+   "more_actions": {
+      "description": "data/js/ui.template.js",
+      "message": "\u66F4\u591A\u52A8\u4F5C"
+   },
+   "move_to_bottom": {
+      "description": "data/index.html",
+      "message": "\u79FB\u5230\u5E95\u90E8"
+   },
+   "move_to_next_tweet": {
+      "description": "data/index.html",
+      "message": "\u79FB\u52A8\u5230\u4E0B\u4E00\u6761\u72B6\u6001"
+   },
+   "move_to_prev_tweet": {
+      "description": "data/index.html",
+      "message": "\u79FB\u52A8\u5230\u4E0A\u4E00\u6761\u72B6\u6001"
+   },
+   "move_to_top": {
+      "description": "data/index.html",
+      "message": "\u79FB\u5230\u9876\u90E8"
+   },
+   "mute_by_containing_words": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "mute_by_source": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "mute_by_user_name": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "mute_filter": {
+      "description": "data/index.html",
+      "message": "\u5C4F\u853D\u5668"
+   },
+   "mute_this_source": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "mute_this_user": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "mute_this_word": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "my_favs": {
+      "description": "data/js/ui.slider.js",
+      "message": "\u6211\u7684\u6536\u85CF"
+   },
+   "my_journey_is_to_the_sea_of_stars": {
+      "description": "data/index.html",
+      "message": "\u543E\u4E4B\u65C5\u7A0B\u5728\u90A3\u661F\u8FB0\u5927\u6D77"
+   },
+   "my_power": {
+      "description": "data/js/lib.twitterapi.js",
+      "message": "\u9B54\u6CD5\u503C"
+   },
+   "name": {
+      "description": "",
+      "message": "\u540D\u5B57"
+   },
+   "nearly_dead": {
+      "description": "data/js/lib.twitterapi.js",
+      "message": "\u62B1\u4E0D\u4F4F\u6811\u4E86\u55B5"
+   },
+   "network_error_please_try_later": {
+      "description": "data/js/ui.welcome.js",
+      "message": "\u7F51\u8DEF\u6545\u969C\uFF0C\u8BF7\u7A0D\u5019\u518D\u8BD5\u55B5\uFF01"
+   },
+   "new_profile_has_been_created": {
+      "description": "data/js/ui.welcome.js",
+      "message": "\u6BBF\u4E0B\uFF0C\u60A8\u7684\u65B0\u8D26\u6237\u5DF2\u7ECF\u521B\u5EFA\u6210\u529F\u5466\uFF01"
+   },
+   "next": {
+      "description": "data/index.html",
+      "message": "\u4E0B\u4E00\u6B65"
+   },
+   "no_extension": {
+      "description": "data/index.html",
+      "message": "\u6728\u6709\u6269\u5C55"
+   },
+   "not_avaiable_yet": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "notify": {
+      "description": "",
+      "message": "\u901A\u77E5"
+   },
+   "notify_me_if_incoming_tweets_mention_hotot": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "oauth_base": {
+      "description": "",
+      "message": "OAuth Base"
+   },
+   "official_retweet_this_tweet": {
+      "description": "data/js/ui.template.js",
+      "message": "\u8F6C\u53D1"
+   },
+   "ok": {
+      "description": "",
+      "message": "\u597D\u5462"
+   },
+   "oops_a_network_error_occurs": {
+      "description": "data/js/ui.welcome.js",
+      "message": "\u77EE\u6CB9\uFF5E \u53D1\u751F\u4E86\u4E00\u4E2A\u7F51\u8DEF\u9519\u8BEF\u5466\uFF01"
+   },
+   "oops_an_api_error_occurs": {
+      "description": "data/js/ui.welcome.js",
+      "message": "\u77EE\u6CB9\uFF5E \u53D1\u751F\u4E86\u4E00\u4E2AAPI\u9519\u8BEF"
+   },
+   "oops_an_authentication_error_occurs": {
+      "description": "data/js/ui.welcome.js",
+      "message": ""
+   },
+   "open_a_list_dots": {
+      "description": "data/index.html",
+      "message": "\u6253\u5F00\u4E00\u4E2A\u5217\u8868"
+   },
+   "open_a_profile_dots": {
+      "description": "data/index.html",
+      "message": "\u6253\u5F00\u4E00\u4E2A\u7528\u6237\u9875"
+   },
+   "open_first_link": {
+      "description": "data/index.html",
+      "message": "\u6253\u5F00\u7B2C\u4E00\u4E2A\u94FE\u63A5\uFF08\u5982\u679C\u5B58\u5728\u7684\u8BDD\uFF09"
+   },
+   "open_speaker_link": {
+      "description": "data/index.html",
+      "message": "\u6253\u5F00\u6B64\u4EBA\u7684\u94FE\u63A5"
+   },
+   "options": {
+      "description": "data/js/ui.exts_dlg.js",
+      "message": "\u9009\u9879"
+   },
+   "or_copy_the_address_and_open_it_in_your_browser": {
+      "description": "",
+      "message": "\u6216\u8005\u5728\u6D4F\u89C8\u5668\u4E2D\u6253\u5F00\u4EE5\u4E0B\u5730\u5740"
+   },
+   "panda_acts_cute": {
+      "description": "data/index.html",
+      "message": "\u5356\u840C\u7684\u718A\u732B"
+   },
+   "password": {
+      "description": "data/index.html",
+      "message": "\u5BC6\u7801"
+   },
+   "paste_from_clipboard": {
+      "description": "date/index.html",
+      "message": "\u4ECE\u526A\u8D34\u677F\u7C98\u8D34"
+   },
+   "pin_code": {
+      "description": "",
+      "message": "PIN Code"
+   },
+   "please_enter_the_recipient": {
+      "description": "data/js/ui.status_box.js",
+      "message": "\u6BBF\u4E0B\uFF0C\u8BF7\u6307\u5B9A\u6536\u4EF6\u4EBA\u5466\uFF01"
+   },
+   "please_entry_a_profile_prefix": {
+      "description": "data/js/ui.welcome.js",
+      "message": "\u8BF7\u8F93\u5165\u4E00\u4E2A\u8D26\u6237\u524D\u7F00"
+   },
+   "port": {
+      "description": "data/index.html",
+      "message": "\u7AEF\u53E3"
+   },
+   "post_successfully": {
+      "description": "data/js/ui.status_box.js",
+      "message": "\u6210\u529F\u53D1\u9001\u5466\uFF01"
+   },
+   "posting_dots": {
+      "description": "data/js/ui.status_box.js",
+      "message": "\u53D1\u9001\u5462\u2026\u2026"
+   },
+   "powerfull": {
+      "description": "data/js/lib.twitterapi.js",
+      "message": "\u5730\u56FE\u70AE\u5145\u80FD\u5B8C\u6BD5"
+   },
+   "preferences": {
+      "description": "",
+      "message": "\u504F\u597D"
+   },
+   "preload_latest_tweets_in_conversations_if_possible": {
+      "description": "",
+      "message": "\u5982\u679C\u53EF\u80FD\u7684\u8BDD\uFF0C\u9884\u52A0\u8F7D\u5BF9\u8BDD\u7684\u4E0A\u4E00\u6761\u72B6\u6001"
+   },
+   "pretty_wife": {
+      "description": "data/index.html",
+      "message": "\u4FCF\u4EBA\u59BB\u897F\u4E54"
+   },
+   "preview_embedded_media": {
+      "description": "data/index.html",
+      "message": "\u9884\u89C8\u5D4C\u5165\u7684\u591A\u5A92\u4F53"
+   },
+   "preview_here": {
+      "description": "data/index.html",
+      "message": "\u9884\u89C8"
+   },
+   "previous": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "profile": {
+      "description": "data/index.html",
+      "message": "\u8D26\u6237"
+   },
+   "profile_name": {
+      "description": "data/index.html",
+      "message": "\u5E10\u6237\u540D"
+   },
+   "project_host": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "project_site": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "proxy": {
+      "description": "data/index.html",
+      "message": "\u4EE3\u7406"
+   },
+   "proxy_auth": {
+      "description": "data/index.html",
+      "message": "\u4EE3\u7406\u8BA4\u8BC1"
+   },
+   "proxy_host": {
+      "description": "data/index.html",
+      "message": "\u4EE3\u7406\u4E3B\u673A"
+   },
+   "proxy_http_proxy": {
+      "description": "data/index.html",
+      "message": "HTTP\u4EE3\u7406"
+   },
+   "proxy_no_proxy": {
+      "description": "data/index.html",
+      "message": "\u65E0\u4EE3\u7406"
+   },
+   "proxy_port": {
+      "description": "data/index.html",
+      "message": "\u4EE3\u7406\u7AEF\u53E3"
+   },
+   "proxy_socks_proxy": {
+      "description": "data/index.html",
+      "message": "SOCKS\u4EE3\u7406"
+   },
+   "proxy_system_proxy": {
+      "description": "data/index.html",
+      "message": "\u7CFB\u7EDF\u4EE3\u7406"
+   },
+   "quick_references": {
+      "description": "data/index.html",
+      "message": "\u5FEB\u901F\u53C2\u8003"
+   },
+   "quit_hotot": {
+      "description": "data/index.html",
+      "message": "\u9000\u51FA\u50B2\u5154"
+   },
+   "quote": {
+      "description": "",
+      "message": "\u5F15\u7528"
+   },
+   "read_later": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "read_later_service": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "relation": {
+      "description": "data/js/ui.template.js",
+      "message": "\u5173\u7CFB"
+   },
+   "reload": {
+      "description": "data/index.html",
+      "message": "\u91CD\u65B0\u52A0\u8F7D"
+   },
+   "reply": {
+      "description": "",
+      "message": "\u56DE\u590D"
+   },
+   "reply_all": {
+      "description": "",
+      "message": "\u56DE\u590D\u6240\u6709"
+   },
+   "reply_this_tweet": {
+      "description": "data/js/ui.template.js",
+      "message": "\u56DE\u590D"
+   },
+   "reply_to": {
+      "description": "data/js/ui.template.js",
+      "message": "\u56DE\u5E94"
+   },
+   "report_spam": {
+      "description": "data/js/ui.template.js",
+      "message": "\u4E3E\u62A5\u5783\u573E\u8D26\u6237"
+   },
+   "reset_time": {
+      "description": "data/js/lib.twitterapi.js",
+      "message": "\u6280\u80FD\u51B7\u5374\u65F6\u95F4\u8FD8\u5269"
+   },
+   "restore_defaults": {
+      "description": "",
+      "message": "\u6062\u590D\u9ED8\u8BA4\u503C"
+   },
+   "retweet": {
+      "description": "",
+      "message": "\u8F6C\u53D1"
+   },
+   "retweet_or_un_retweet": {
+      "description": "data/index.html",
+      "message": "\u8F6C\u53D1/\u53D6\u6D88\u8F6C\u53D1"
+   },
+   "retweet_successfully": {
+      "description": "data/js/ui.main.js",
+      "message": "\u8F6C\u53D1\u6210\u529F\u5466\uFF01"
+   },
+   "retweeted_by": {
+      "description": "data/js/ui.template.js",
+      "message": "\u8F6C\u53D1\u4EBA:"
+   },
+   "retweeting_dots": {
+      "description": "data/js/ui.main.js",
+      "message": "\u8F6C\u53D1\u4E2D..."
+   },
+   "retweets": {
+      "description": "data/js/ui.slider.js",
+      "message": "\u8F6C\u53D1\u4E0E\u88AB\u8F6C\u53D1"
+   },
+   "retweets_view": {
+      "description": "data/index.html",
+      "message": "\u8F6C\u53D1"
+   },
+   "rt_this_tweet": {
+      "description": "data/js/ui.template.js",
+      "message": "\u5F15\u7528"
+   },
+   "rule": {
+      "description": "data/index.html",
+      "message": "\u89C4\u5219"
+   },
+   "rule_based_filter": {
+      "description": "data/index.html",
+      "message": "\u89C4\u5219\u8FC7\u6EE4\u5668"
+   },
+   "rule_editor": {
+      "description": "data/index.html",
+      "message": "\u89C4\u5219\u7F16\u8F91\u5668"
+   },
+   "rule_name": {
+      "description": "data/index.html",
+      "message": "\u89C4\u5219\u540D"
+   },
+   "same_signing_api_base": {
+      "description": "",
+      "message": "\u4F7F\u7528\u76F8\u540C API \u8FDB\u884C\u7B7E\u540D"
+   },
+   "same_signing_oauth_base": {
+      "description": "",
+      "message": "\u4F7F\u7528\u540C\u6837\u7684 OAuth \u5730\u5740\u8FDB\u884C\u7B7E\u540D"
+   },
+   "save": {
+      "description": "data/index.html",
+      "message": "\u4FDD\u5B58"
+   },
+   "save_as_draft": {
+      "description": "data/index.html",
+      "message": "\u4FDD\u5B58\u8349\u7A3F"
+   },
+   "schizophrenia": {
+      "description": "data/index.html",
+      "message": "\u88C2\u88C2\u7684\u82AC\u82B3"
+   },
+   "screen_name1_screen_name2": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "search": {
+      "description": "data/js/ui.slider.js",
+      "message": "\u641C\u7D22"
+   },
+   "search_api_base2": {
+      "description": "",
+      "message": "\u641C\u7D22 API Base"
+   },
+   "search_in_google": {
+      "description": "",
+      "message": "\u5728Google\u4E2D\u641C\u7D22@"
+   },
+   "search_in_twitter": {
+      "description": "",
+      "message": "\u5728Twitter\u4E2D\u641C\u7D22@"
+   },
+   "search_view": {
+      "description": "data/index.html",
+      "message": "\u641C\u7D22"
+   },
+   "select_a_default_picture_service": {
+      "description": "data/index.html",
+      "message": "\u9009\u62E9\u4E00\u4E2A\u9ED8\u8BA4\u56FE\u7247\u670D\u52A1"
+   },
+   "select_a_language": {
+      "description": "data/index.html",
+      "message": "\u9009\u62E9\u8BED\u8A00"
+   },
+   "select_a_read_later_service": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "select_a_theme": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "select_actions": {
+      "description": "data/index.html",
+      "message": "\u9009\u62E9\u52A8\u4F5C"
+   },
+   "select_fields": {
+      "description": "data/index.html",
+      "message": "\u9009\u62E9\u60A8\u611F\u5174\u8DA3\u7684\u90E8\u4F4D"
+   },
+   "send_message": {
+      "description": "",
+      "message": "\u53D1\u9001\u6D88\u606F"
+   },
+   "send_message_to_them": {
+      "description": "data/js/ui.template.js",
+      "message": "\u53D1\u9001\u79C1\u4FE1"
+   },
+   "shiny_old_times_before_marriage": {
+      "description": "data/index.html",
+      "message": "\u5A5A\u524D\u7684\u65E7\u65F6\u5149"
+   },
+   "shortcuts": {
+      "description": "data/index.html",
+      "message": "\u5FEB\u6377\u952E"
+   },
+   "show_relative_timestamp": {
+      "description": "data/index.html",
+      "message": "\u663E\u793A\u76F8\u5BF9\u65F6\u95F4\u6233"
+   },
+   "sign_in_dots": {
+      "description": "data/js/ui.welcome.js",
+      "message": "\u722C\u5899\u5462\u55B5\u2026\u2026"
+   },
+   "sign_out": {
+      "description": "data/index.html",
+      "message": "\u767B\u51FA"
+   },
+   "signing_api_base": {
+      "description": "data/index.html",
+      "message": "\u767B\u5F55 API Base"
+   },
+   "signing_oauth_base": {
+      "description": "data/index.html",
+      "message": "\u767B\u5F55 OAuth Base"
+   },
+   "slide_to_next_page": {
+      "description": "data/index.html",
+      "message": "\u5207\u6362\u5230\u4E0B\u4E00\u9875"
+   },
+   "slide_to_prev_page": {
+      "description": "data/index.html",
+      "message": "\u5207\u6362\u5230\u524D\u4E00\u9875"
+   },
+   "some_error_occur": {
+      "description": "data/index.html",
+      "message": "\u77EE\u6CB9\uFF5E \u53D1\u751F\u4E86\u70B9\u9519\u8BEF\u8036 \u003E_\u003C"
+   },
+   "starts_minimized": {
+      "description": "data/index.html",
+      "message": "\u542F\u52A8\u5373\u6700\u5C0F\u5316"
+   },
+   "stat": {
+      "description": "",
+      "message": "\u7EDF\u8BA1"
+   },
+   "status_is_over_140_characters": {
+      "description": "data/js/ui.status_box.js",
+      "message": "\u8D85\u8FC7140\u5B57\u4E86\u55B5\uFF01"
+   },
+   "step_one": {
+      "description": "",
+      "message": "\u7B2C\u4E00\u6B65"
+   },
+   "step_two": {
+      "description": "",
+      "message": "\u7B2C\u4E8C\u6B65"
+   },
+   "struggling_adventurers": {
+      "description": "data/index.html",
+      "message": "\u82E6\u903C\u7684Kee\u53D4"
+   },
+   "successfully": {
+      "description": "data/js/ui.main.js",
+      "message": "\u6210\u529F\u4E86\u5462\uFF01"
+   },
+   "summon_hotot": {
+      "description": "",
+      "message": "\u53EC\u5524Hotot \u300E\u6BD4\u5982: \u003CALT\u003EC\u300F"
+   },
+   "supervised_by": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "themes": {
+      "description": "data/index.html",
+      "message": "\u4E3B\u9898"
+   },
+   "this_profile_may_has_already_exists": {
+      "description": "data/js/ui.welcome.js",
+      "message": "\u8FD9\u4E2A\u8D26\u6237\u5DF2\u7ECF\u5B58\u5728\u4E86\u5466\uFF01"
+   },
+   "titian_s_elegance": {
+      "description": "data/index.html",
+      "message": "\u6587\u827A\u7684\u7F07\u9999"
+   },
+   "to": {
+      "description": "data/index.html",
+      "message": "\u7ED9"
+   },
+   "to_cold_beauty": {
+      "description": "data/index.html",
+      "message": "\u51B7\u8273\u7684\u5609\u654F"
+   },
+   "toggle_conversation": {
+      "description": "data/index.html",
+      "message": "\u5F00\u5173\u4F1A\u8BDD"
+   },
+   "tranquil": {
+      "description": "data/index.html",
+      "message": "\u795D\u6C5D\u5E78\u798F"
+   },
+   "transparent": {
+      "description": "data/index.html",
+      "message": "\u900F\u660E"
+   },
+   "tweet_cnt": {
+      "description": "data/js/ui.template.js",
+      "message": "\u72B6\u6001"
+   },
+   "tweet_view": {
+      "description": "data/index.html",
+      "message": "\u72B6\u6001\u89C6\u56FE"
+   },
+   "tweets": {
+      "description": "",
+      "message": "\u72B6\u6001"
+   },
+   "twitter_official_service": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "type_a_name_here": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "type_or_drag_a_photo_here": {
+      "description": "data/index.html",
+      "message": "\u5199\u70B9\u4EC0\u4E48\u6216\u8005\u62D6\u62FD\u7167\u7247\u5230\u6B64"
+   },
+   "un_favorite_this_tweet_dots": {
+      "description": "data/js/ui.main.js",
+      "message": "\u53D6\u6D88\u6536\u85CF\u5462..."
+   },
+   "unblock": {
+      "description": "data/js/ui.template.js",
+      "message": "\u53D6\u6D88\u5C4F\u853D"
+   },
+   "undo_retweeting_dots": {
+      "description": "data/js/ui.main.js",
+      "message": "\u64A4\u9500\u8F6C\u53D1\u5462..."
+   },
+   "undo_successfully": {
+      "description": "data/js/ui.main.js",
+      "message": "\u64A4\u9500\u6210\u529F\u5466\uFF01"
+   },
+   "unfollow": {
+      "description": "data/js/ui.listview.js",
+      "message": "\u53D6\u6D88\u5173\u6CE8"
+   },
+   "unfollow_at": {
+      "description": "data/js/ui.main.js",
+      "message": "\u89E3\u9664\u5173\u6CE8@"
+   },
+   "update": {
+      "description": "",
+      "message": "\u66F4\u65B0"
+   },
+   "update_successfully": {
+      "description": "data/js/ui.status_box.js",
+      "message": "\u66F4\u65B0\u6210\u529F\u5466\uFF01"
+   },
+   "updating_dots": {
+      "description": "data/js/ui.status_box.js",
+      "message": "\u66F4\u65B0\u4E2D\u2026\u2026"
+   },
+   "upload": {
+      "description": "data/index.html",
+      "message": "\u4E0A\u4F20"
+   },
+   "upload_api_base": {
+      "description": "data/index.html",
+      "message": "\u4E0A\u4F20 API Base"
+   },
+   "upload_photo": {
+      "description": "data/index.html",
+      "message": "\u4E0A\u4F20\u7167\u7247"
+   },
+   "upload_to_dots": {
+      "description": "data/index.html",
+      "message": "\u4E0A\u4F20\u5230 ..."
+   },
+   "url_shortener": {
+      "description": "data/index.html",
+      "message": "URL\u7F29\u77ED\u5668"
+   },
+   "use_custom_font": {
+      "description": "data/index.html",
+      "message": "\u4F7F\u7528\u81EA\u5B9A\u4E49\u5B57\u4F53"
+   },
+   "use_quote_as_default_retweet_action": {
+      "description": "data/index.html",
+      "message": "\u4F7F\u7528\u300E\u5F15\u7528\u300F\u4F5C\u4E3A\u9ED8\u8BA4\u8F6C\u53D1\u65B9\u5F0F"
+   },
+   "use_read_later_service": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "use_reply_all_as_default_reply_action": {
+      "description": "data/index.html",
+      "message": "\u4F7F\u7528\u300E\u56DE\u590D\u6240\u6709\u300F\u4F5C\u4E3A\u9ED8\u8BA4\u56DE\u590D\u65B9\u5F0F"
+   },
+   "username": {
+      "description": "data/index.html",
+      "message": "\u7528\u6237\u540D"
+   },
+   "verify": {
+      "description": "data/index.html",
+      "message": "\u6821\u9A8C"
+   },
+   "version": {
+      "description": "data/js/ui.exts_dlg.js",
+      "message": "\u7248\u672C"
+   },
+   "via": {
+      "description": "data/js/ui.template.js",
+      "message": "\u53D1\u81EA"
+   },
+   "view_more_conversation": {
+      "description": "data/js/ui.template.js",
+      "message": "\u67E5\u770B\u4F1A\u8BDD"
+   },
+   "virushou_s_integrity": {
+      "description": "data/index.html",
+      "message": "\u706B\u70AC\u7684\u6B63\u76F4"
+   },
+   "wanna_have_relationship_with": {
+      "description": "data/index.html",
+      "message": "\u54B8\u6E7F\u4F6C"
+   },
+   "weakness": {
+      "description": "data/js/lib.twitterapi.js",
+      "message": "\u865A\u5F31"
+   },
+   "web": {
+      "description": "data/js/ui.template.js",
+      "message": "\u7F51\u5740"
+   },
+   "website": {
+      "description": "data/js/ui.exts_dlg.js",
+      "message": "\u7F51\u5740"
+   },
+   "whisper": {
+      "description": "data/js/ui.welcome.js",
+      "message": "\u4F4E\u8BED"
+   },
+   "word1_word2": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "write_down_description_here": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "written_by": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "you_are_followed_by_them": {
+      "description": "data/js/ui.peopleview.js",
+      "message": "\u4ED6\uFF0F\u5979\uFF0F\u5B83\u9ED8\u9ED8\u5730\u5173\u6CE8\u7740\u4F60\u2026"
+   },
+   "you_are_following": {
+      "description": "data/js/ui.peopleview.js",
+      "message": "\u4F60\u9ED8\u9ED8\u5730\uFF0C\u5173\u6CE8\u7740\u4ED6\uFF0F\u5979\uFF0F\u5B83\u2026"
+   },
+   "you_are_friends": {
+      "description": "data/js/ui.peopleview.js",
+      "message": "\u4F60\u4EEC\u9ED8\u9ED8\u5730\u5173\u6CE8\u7740\u5BF9\u65B9\u2026"
+   },
+   "you_are_not_following_each_other": {
+      "description": "data/js/ui.peopleview.js",
+      "message": "\u4F60\u4EEC\u5B9B\u5982\u8DEF\u4EBA\uFF0C\u64E6\u8EAB\u800C\u8FC7\uFF0C\u4E0D\u76F8\u5F80\u6765\u3002"
+   },
+   "you_dont_have_a_view": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "you_should_surely_add_one_or_more_views_by_clicking_the_add_button_above": {
+      "description": "data/index.html",
+      "message": ""
+   },
+   "your_profile": {
+      "description": "data/index.html",
+      "message": ""
+   }
+}

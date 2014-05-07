@@ -1,0 +1,12 @@
+@import "header.css";
+.middle{
+	margin:0 auto ;
+	float: none;
+	width: 300px;
+	margin-top: 30px;
+}
+.middle a,.middle a:hover{
+	color: rgb(51, 51, 51);
+	text-decoration: none;
+	display: block;
+}

@@ -1,0 +1,10 @@
+body {
+  padding-top: 60px;
+}
+p{
+	text-indent: 2em;
+}
+.copyright {
+margin-top: 10px;
+float: left;
+}

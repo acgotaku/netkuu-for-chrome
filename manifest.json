@@ -1,0 +1,20 @@
+{
+   "default_locale": "en",
+   "description": "netkuu for Chrome",
+   "icons": {
+      "128": "image/ic128_netkuu.png",
+      "16": "image/ic16_netkuu.png",
+      "24": "image/ic24_netkuu.png"
+   },
+   "manifest_version": 2,
+   "name": "netkuu",
+   "short_name": "netkuu BETA",
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "permissions": [ "http://*/*", "unlimitedStorage", "notifications", "contextMenus", "background" ],
+   "browser_action": {
+   "default_icon": "image/ic24_netkuu.png",
+   "default_popup": "popup.html"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.2.1"
+}
